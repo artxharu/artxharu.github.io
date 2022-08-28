@@ -34,7 +34,7 @@ theme_settings :
     twitter:
     youtube:
     facebook:
-    instagram: https://instagram.com/haru.live
+    instagram: haru.live
 
   # Disqus
   disqus_shortname :
