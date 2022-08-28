@@ -1,6 +1,6 @@
 # Site Settings
 baseurl: ""
-url : "https://naye0ng.github.io"
+url : "https://artxharu.github.io"
 
 # Blog Settings
 theme_settings :
@@ -9,29 +9,32 @@ theme_settings :
 
   # Profile Settings
   profile :
-    image : assets/img/smile.png
-    username : Nayeong Kim
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    image : assets/img/profile_photo.jpg
+    username : Haru JEON
+    description : Art Director
     experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
+      - start : 2021-11-30
+        end : 2022-02-01
+        experience : 아름지기, Curator
     skills : 
-      - skill : HTML5 & CSS
+      - skill : Curating
         value : 85  # Percent value
-        
+      - skill : Writing
+        value : 85  # Percent value
+      - skill : Art project
+        value : 85  # Percent value
   # Icons
   icons :
-    email:  # Full email address, e.g. "sample@google.com"
+    email:  artxharu@gmail.com
     linkedin:  # Full URL 
-    github: naye0ng
+    github: 
     gitlab: 
     bitbucket: 
     google_plus:
     twitter:
     youtube:
     facebook:
-    instagram:
+    instagram: https://instagram.com/haru.live
 
   # Disqus
   disqus_shortname :
