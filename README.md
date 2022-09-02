@@ -1,5 +1,5 @@
-# urban-theme
+# Memoirs Jekyll Theme
 
-This theme is a Jekyll port of http://erosie.net/ with some modifications. It is designed for visual artists.
+[Live Demo](https://wowthemesnet.github.io/jekyll-theme-memoirs/) | [Docs & Download](https://bootstrapstarter.com/jekyll-theme-memoirs/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
 
-Live-Demo: https://narkotyk.netlify.app
+![memoirs](https://bootstrapstarter.com/assets/img/themes/memoirs-jekyll.jpg)
