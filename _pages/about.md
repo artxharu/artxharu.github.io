@@ -3,7 +3,7 @@ layout: page
 title: Haru JEON
 permalink: /about
 comments: false
-image: assets/images/profile_haru.jpeg
+image: assets/images/profile_haru.jpg
 imageshadow: true
 ---
 

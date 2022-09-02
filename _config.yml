@@ -2,8 +2,8 @@
 name: "Haru JEON"
 title: "Hru JEON - Curating, Writing, and Art projects"
 description: "Haru JEON - Curating, Writing, and Art projects"
-logo: 'assets/images/logo.jpeg'
-favicon: 'assets/images/logo.jpeg'
+logo: 'assets/images/logo.jpg'
+favicon: 'assets/images/logo.jpg'
 baseurl: ''
 google_analytics: ''
 disqus: ''
@@ -17,7 +17,7 @@ authors:
   haru:
     name: Haru
     display_name: Haru
-    avatar: 'assets/images/avatar_haru.jpeg'
+    avatar: 'assets/images/avatar_haru.jpg'
     email: artxharu@gmail.com
     #web: https://www.wowthemes.net/donate/
     #twitter: https://twitter.com/wowthemesnet
