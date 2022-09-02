@@ -1,6 +1,6 @@
-source "https://rubygems.org"
-ruby "~> 2.7.x"
+source 'https://rubygems.org'
+gem 'jekyll'
 
-gem "jekyll"
-gem "dato"
-gem "jekyll-paginate-v2"
+group :jekyll_plugins do
+    gem 'jekyll-seo-tag'
+end
