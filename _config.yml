@@ -1,52 +1,12 @@
-# Site Settings
-baseurl: ""
-url : "https://artxharu.github.io"
+# Build settings
 
-# Blog Settings
-theme_settings :
-  title : HARU JEON
-  favicon : assets/favicon.ico
+port: 4000
+markdown:  kramdown
+permalink: /:title
+plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
-  # Profile Settings
-  profile :
-    image : assets/img/profile_photo.jpg
-    username : Haru JEON
-    description : Art Director
-    experience :
-      - start : 2021-11-30
-        end : 2022-02-01
-        experience : 아름지기, Curator
-    skills : 
-      - skill : Curating
-        value : 85  # Percent value
-      - skill : Writing
-        value : 85  # Percent value
-      - skill : Art project
-        value : 85  # Percent value
-  # Icons
-  icons :
-    email:  artxharu@gmail.com
-    linkedin:  # Full URL 
-    github: 
-    gitlab: 
-    bitbucket: 
-    google_plus:
-    twitter:
-    youtube:
-    facebook:
-    instagram: haru.live
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-  # Disqus
-  disqus_shortname :
-
-# Pagination
-paginate: 5
-paginate_path: "blog/page:num"
-
-# Build Ssttings
-sass:
-  sass_dir: _sass
-  style: :compressed
-gems: [jekyll-paginate]
-bootstrap:
-  assets: true
+title:		   "Haru Jeon - Curating, Writing, and Art projects"
+description: "Curating, Writing, and Art projects"
+author:      "Haru Jeon"
