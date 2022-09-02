@@ -1,38 +1,20 @@
-title: Stackbit Exto Theme
-baseurl: /
-permalink: '/:title/'
-collections:
-  posts:
-    permalink: '/posts/:title/'
-color_scheme: light
-accent_color: pink
-header:
-  title: Haru JEON
-  has_nav: true
-footer:
-  content: '&copy; Haru JEON. All rights reserved.'
-#  links:
-#    - text: Made with Stackbit
-#      url: 'https://www.stackbit.com'
-#      new_window: true
-#  has_social: true
-sass:
-  indentWidth: 4
-  style: nested
-  precision: 10
+baseurl: ""
+url: "/"
+markdown: kramdown
+source: "src"
+destination: "public"
+
 plugins:
-  - jekyll-menus
+  - jekyll-paginate-v2
+
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: '/page/:num/'
+
+collections:
+  works:
+    output: true
+
 exclude:
-  - Gemfile
-  - Gemfile.lock
   - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - ssg-build.sh
-  - LICENSE.md
-  - README.md
-  - netlify.toml
-  - stackbit-build.sh
-  - stackbit-pull.js
