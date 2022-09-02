@@ -2,8 +2,8 @@
 name: "Haru JEON"
 title: "Hru JEON - Curating, Writing, and Art projects"
 description: "Haru JEON - Curating, Writing, and Art projects"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo.jpeg'
+favicon: 'assets/images/logo.jpeg'
 baseurl: ''
 google_analytics: ''
 disqus: ''
@@ -17,11 +17,11 @@ authors:
   haru:
     name: Haru
     display_name: Haru
-    avatar: 'assets/images/profile_haru.jpeg'
+    avatar: 'assets/images/avatar_haru.jpeg'
     email: artxharu@gmail.com
     #web: https://www.wowthemes.net/donate/
     #twitter: https://twitter.com/wowthemesnet
-    description: "Haru JEON."
+    description: "Owner of this site, Curator and Writer for Arts"
 
 # Plugins
 plugins:
@@ -62,7 +62,7 @@ adsense-data-ad-slot: ""
 lazyimages: "disabled"
 
 # Post Author Box ("enabled" or "disabled")
-authorbox: "enabled"
+authorbox: "disable"
 
 # Sass
 sass:

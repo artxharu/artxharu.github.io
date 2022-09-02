@@ -7,6 +7,10 @@ image: assets/images/profile_haru.jpeg
 imageshadow: true
 ---
 
+# Contacts
+- e-mail: [artxharu@gmail.com](mailto:artxharu@gmail.com)
+- Instagram: [@haru.live](https://instagram.com/haru.live)
+
 # Profile
 Self-driven and dedicated Curatorial skilled at preparing and installing exhibitions, conducting inventories, managing museum database, and performing professional tours of collections. Professional Curator offering extensive knowledge of art and history, well developed time managed skills, and ability to perform well in fast-paced team environments.
   
