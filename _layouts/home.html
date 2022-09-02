@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: body
 ---
 
-{% include projects.html %}
+{% for section in page.sections %}
+  
+  {% include {{ section.component }} section=section site=site %}
+{% endfor %}

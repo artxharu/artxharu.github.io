@@ -1,12 +1,38 @@
-# Build settings
-
-port: 4000
-markdown:  kramdown
-permalink: /:title
-plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
-
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-
-title:		   "Haru Jeon - Curating, Writing, and Art projects"
-description: "Curating, Writing, and Art projects"
-author:      "Haru Jeon"
+title: Stackbit Exto Theme
+baseurl: /
+permalink: '/:title/'
+collections:
+  posts:
+    permalink: '/posts/:title/'
+color_scheme: light
+accent_color: pink
+header:
+  title: Haru JEON
+  has_nav: true
+footer:
+  content: '&copy; Haru JEON. All rights reserved.'
+#  links:
+#    - text: Made with Stackbit
+#      url: 'https://www.stackbit.com'
+#      new_window: true
+#  has_social: true
+sass:
+  indentWidth: 4
+  style: nested
+  precision: 10
+plugins:
+  - jekyll-menus
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - ssg-build.sh
+  - LICENSE.md
+  - README.md
+  - netlify.toml
+  - stackbit-build.sh
+  - stackbit-pull.js
