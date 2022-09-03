@@ -3,7 +3,7 @@ layout: post
 title:  "《CONNECTING, 아름지기 창립 20주년 기념전》, 2021.12.30-2022.2.26"
 author: haru
 categories: [ Project ]
-image: "_posts/2022-02-27-connecting_arumjigi/아름지기 1.jpeg"
+image: "_posts/2022-02-27-connecting_arumjigi/아름지기1.jpeg"
 beforetoc: "큐레이터 / 전시 기획 참여"
 toc: false
 comments: false
@@ -20,12 +20,12 @@ comments: false
 [출처: 정글매거진 / 최유진 에디터](https://www.jungle.co.kr/magazine/203790)
 
 # 자료
-![전시 전경 1](_posts/2022-02-27-connecting_arumjigi/아름지기 2.jpeg)  
-![전시 전경 2](_posts/2022-02-27-connecting_arumjigi/아름지기 3.jpeg)  
-![전시 전경 3](_posts/2022-02-27-connecting_arumjigi/아름지기 4.jpeg)  
-![전시 전경 4](_posts/2022-02-27-connecting_arumjigi/아름지기 5.jpeg)  
-![전시 전경 5](_posts/2022-02-27-connecting_arumjigi/아름지기 6.jpeg)  
-![전시 전경 6](_posts/2022-02-27-connecting_arumjigi/아름지기 7.jpeg)  
-![전시 전경 7](_posts/2022-02-27-connecting_arumjigi/아름지기 8.jpeg)  
-![전시 전경 8](_posts/2022-02-27-connecting_arumjigi/아름지기 9.jpeg)  
-![전시 전경 9](_posts/2022-02-27-connecting_arumjigi/아름지기 10.jpeg)  
+![전시 전경 1](_posts/2022-02-27-connecting_arumjigi/아름지기2.jpeg)  
+![전시 전경 2](_posts/2022-02-27-connecting_arumjigi/아름지기3.jpeg)  
+![전시 전경 3](_posts/2022-02-27-connecting_arumjigi/아름지기4.jpeg)  
+![전시 전경 4](_posts/2022-02-27-connecting_arumjigi/아름지기5.jpeg)  
+![전시 전경 5](_posts/2022-02-27-connecting_arumjigi/아름지기6.jpeg)  
+![전시 전경 6](_posts/2022-02-27-connecting_arumjigi/아름지기7.jpeg)  
+![전시 전경 7](_posts/2022-02-27-connecting_arumjigi/아름지기8.jpeg)  
+![전시 전경 8](_posts/2022-02-27-connecting_arumjigi/아름지기9.jpeg)  
+![전시 전경 9](_posts/2022-02-27-connecting_arumjigi/아름지기10.jpeg)  

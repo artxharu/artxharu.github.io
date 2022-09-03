@@ -3,7 +3,7 @@ layout: post
 title:  "《도도도둑 : 도둑의 발자국》, 2022.2.22-2.28"
 author: haru
 categories: [ Project ]
-image: _posts/2022-02-29-dodododuk/도도도둑 1.jpg
+image: _posts/2022-02-29-dodododuk/도도도둑1.jpg
 beforetoc: "프로젝트 기획 / 전시 및 출판 참여"
 toc: false
 comments: false
@@ -21,7 +21,7 @@ comments: false
 - 후원: 서울시, 서울문화재단, 청년예술청
 
 # 자료
-![도도도둑 발간물](_posts/2022-02-29-dodododuk/도도도둑 2.jpg)  
-![도도도둑 발간물 서론](_posts/2022-02-29-dodododuk/도도도둑 3.png)  
-![이웅철 작가 인터뷰](_posts/2022-02-29-dodododuk/도도도둑 4.png)  
-![후니다킴 작가 인터뷰](_posts/2022-02-29-dodododuk/도도도둑 5.png)  
+![도도도둑 발간물](_posts/2022-02-29-dodododuk/도도도둑2.jpg)  
+![도도도둑 발간물 서론](_posts/2022-02-29-dodododuk/도도도둑3.png)  
+![이웅철 작가 인터뷰](_posts/2022-02-29-dodododuk/도도도둑4.png)  
+![후니다킴 작가 인터뷰](_posts/2022-02-29-dodododuk/도도도둑5.png)  
