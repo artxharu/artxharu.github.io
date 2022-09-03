@@ -3,7 +3,7 @@ layout: post
 title:  "《도도도둑 : 도둑의 발자국》, 2022.2.22-2.28"
 author: haru
 categories: [ Project ]
-image: _posts/2022-02-29-dodododuk/도도도둑1.jpg
+image: assets/images/2022-02-29-dodododuk/도도도둑1.jpg
 beforetoc: "프로젝트 기획 / 전시 및 출판 참여"
 toc: false
 comments: false

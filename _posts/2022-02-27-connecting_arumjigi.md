@@ -3,7 +3,7 @@ layout: post
 title:  "《CONNECTING, 아름지기 창립 20주년 기념전》, 2021.12.30-2022.2.26"
 author: haru
 categories: [ Project ]
-image: "_posts/2022-02-27-connecting_arumjigi/아름지기1.jpeg"
+image: "assets/images/2022-02-27-connecting_arumjigi/아름지기1.jpeg"
 beforetoc: "큐레이터 / 전시 기획 참여"
 toc: false
 comments: false
